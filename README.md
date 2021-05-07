@@ -2,7 +2,7 @@
 
 ## Why
 
-If you upload an image to GitHub, the URL of the image will be modified and the content of the image will be cached, it would cause data on the badge image doesn't update immediately.
+If you add an image to GitHub, the URL of the image will be modified and the content of the image will be cached, it would cause data on the badge image doesn't update immediately.
 
 ## How
 
